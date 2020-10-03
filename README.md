@@ -1,9 +1,14 @@
 # ASP.NET Core Console Application - Starting Template
-A starting template for ASP.NET Core 3.1 Console application that supports dependency injection, asynchronous programming, logging using Serilog, strongly-typed configuration, etc..  
+A starter project for ASP.NET Core 3.1 Console application. Supported features include:
+* Dependency Injection
+* Asynchronous programming
+* Structured logging using Serilog
+* Strongly-typed configuration
+* ...more to add...
 
 Getting Started
 ---
-After cloning the template, you should be able to run it using Visual Studio right away.
+After cloning the project, you should be able to run it using Visual Studio right away.
 
 Goals
 ---
@@ -11,4 +16,3 @@ The goal of this repository is to provide a basic solution structure that can be
 
 Please feel free to use this template in your new projects!
 
-Please leave me a note if there is anything else you would like to see in the template!
