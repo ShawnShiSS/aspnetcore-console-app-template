@@ -1,5 +1,5 @@
 # ASP.NET Core Console Application - Starting Template
-A starter project for ASP.NET Core 3.1 Console application. Supported features include:
+**A starter project for ASP.NET Core 3.1 Console application. Supported features include:**
 * Dependency Injection
 * Asynchronous programming
 * Structured logging using Serilog
