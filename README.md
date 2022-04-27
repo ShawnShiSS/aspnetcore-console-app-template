@@ -1,5 +1,5 @@
 # ASP.NET Core Console Application - Starting Template
-**TODO : this project shall be upgraded to .NET 5. **
+**TODO : this project shall be upgraded to .NET 5.**
 
 **A starter project for ASP.NET Core 3.1 Console application. Supported features include:**
 * Dependency Injection
